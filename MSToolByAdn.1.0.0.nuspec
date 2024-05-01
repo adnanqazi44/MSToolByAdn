@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MSToolByAdn</id>
+    <version>1.0.0</version>
+    <title>Searching Tool</title>
+    <authors>adnan</authors>
+    <owners>adnan</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+   
+<license type="expression">MIT</license>
+    <projectUrl>https://github.com/adnanqazi44/xrmtoolbox-tool</projectUrl>
+    <description>Useful xrm tool.</description>
+    <summary>Useful xrm tool.</summary>
+    <releaseNotes>0.1 - Initial Realse file</releaseNotes>
+    <copyright>Copyright 2024 Adnan</copyright>
+    <language>en-001</language>
+    <tags>MS</tags>
+  </metadata>
+</package>

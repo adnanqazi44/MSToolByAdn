@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<package>
+	<metadata>
+		<id>xrmtoolByadn</id>
+		<version>1.0.0</version>
+		<authors>adnan</authors>
+		<owners>adnan</owners>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>A description of your project</description>
+		<!-- Add more metadata elements as needed -->
+		<licenseUrl>https://github.com/adnanqazi44/xrmtoolbox-tool/blob/main/LICENSE</licenseUrl>
+	</metadata>
+</package>
